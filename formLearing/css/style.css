@@ -1,0 +1,77 @@
+#head {
+	height: 80px;
+	width: 800px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-left-color: #000;
+}
+
+#content {
+	height: 550px;
+	width: 800px;
+	border: 2px solid #000;
+}
+
+#footer {
+	height: 25px;
+	width: 800px;
+	border: 2px solid #000;
+	text-align:center
+}
+
+#head-logo {
+	height: 50px;
+	width: 800px;
+}
+
+
+#head-navi {
+	height: 30px;
+	width: 800px;
+}
+
+#content-title {
+	height: 50px;
+	width: 800px;
+}
+#content-personal {
+	height: 150px;
+	width: 800px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999;
+}
+#content-contact {
+	height: 50px;
+	width: 800px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999;
+}
+#content-address1 {
+	height: 150px;
+	width: 800px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999;
+}
+#content-address2 {
+	height: 100px;
+	width: 800px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999;
+}
+#content-submit {
+	height: 50px;
+	width: 800px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999;
+}
